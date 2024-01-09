@@ -1,4 +1,4 @@
-# PizzaWebJava
+# PizzaWebJava.github.io
 my first project 
 
 Installation Instructions: If applicable, explain how to set up and run your project.
